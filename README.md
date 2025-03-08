@@ -20,7 +20,7 @@ The system provides:
 ![TeamMate Weekly Stats](Images/TeamMateWeekly.png)
 
 - **Monthly Performance Analytics**: Detailed monthly summaries of Planner activity and team efficiency.
-![TeamMate Monthly Report](Images/TeammateMonthlyt.png)
+![TeamMate Monthly Report](Images/TeammateMonth.png)
 
 ## Technical Implementation
 TeamMate was developed using Microsoft's collaboration tools:
