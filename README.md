@@ -1,2 +1,2 @@
 # TeamMate
-Allows users to manage their Planner tasks through Teams. Also provides notifications in regards to tasks due this week, as well as total work hours.
+A Microsoft Teams integration powered by Power Automate that enhances the management of Microsoft Planner tasks, which the company uses similarly to JIRA tickets. This solution improves visibility, tracking, and automation of team workflows directly within the Teams environment, streamlining task management processes.
