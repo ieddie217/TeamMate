@@ -7,7 +7,7 @@ The system provides:
 - Automated reminders and notifications to boost team productivity
 - Task tracking and analytics to improve workflow visibility
 - Proactive alerts for upcoming and overdue tasks
-- Regular reporting on individual and team performance
+- Regular reporting on individual and team performances
 
 ## Key Features
 - **Daily Task Creation Reminders**: Automated Teams messages prompting users to create and update Planner tasks.
